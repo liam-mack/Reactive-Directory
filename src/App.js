@@ -3,7 +3,7 @@ import './app.scss';
 import Directory from './components/Directory/Directory'
 import Searchbar from './components/Searchbar/Searchbar';
 import employees from './db/employees.json';
-import Images from './images/Images'
+// import Images from './images/Images'
 
 function App() {
   const [query, setQuery] = useState("");

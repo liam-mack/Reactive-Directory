@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9cd1c84d.chunk.css",
+    "main.js": "/static/js/main.0325f199.chunk.js",
+    "main.js.map": "/static/js/main.0325f199.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2e74c2ab.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2e74c2ab.js.map",
+    "static/js/2.028658d3.chunk.js": "/static/js/2.028658d3.chunk.js",
+    "static/js/2.028658d3.chunk.js.map": "/static/js/2.028658d3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9cd1c84d.chunk.css.map": "/static/css/main.9cd1c84d.chunk.css.map",
+    "static/js/2.028658d3.chunk.js.LICENSE.txt": "/static/js/2.028658d3.chunk.js.LICENSE.txt",
+    "static/media/AndyBernard.841b1b67.jpg": "/static/media/AndyBernard.841b1b67.jpg",
+    "static/media/AngelaMartin.1909e19a.jpg": "/static/media/AngelaMartin.1909e19a.jpg",
+    "static/media/CreedBratton.a67bd2e5.jpg": "/static/media/CreedBratton.a67bd2e5.jpg",
+    "static/media/DwightSchrute.ec50c4b9.jpg": "/static/media/DwightSchrute.ec50c4b9.jpg",
+    "static/media/ErinHannon.3c090906.jpg": "/static/media/ErinHannon.3c090906.jpg",
+    "static/media/JimHalpert.0a784e94.jpg": "/static/media/JimHalpert.0a784e94.jpg",
+    "static/media/KevinMalone.51c6c202.jpg": "/static/media/KevinMalone.51c6c202.jpg",
+    "static/media/MichaelScott.bf7de583.png": "/static/media/MichaelScott.bf7de583.png",
+    "static/media/PamBeesly.df5fe60d.jpg": "/static/media/PamBeesly.df5fe60d.jpg",
+    "static/media/StanleyHudson.bb519ceb.jpg": "/static/media/StanleyHudson.bb519ceb.jpg",
+    "static/media/TobyFlenderson.dbe51de9.jpg": "/static/media/TobyFlenderson.dbe51de9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e74c2ab.js",
+    "static/js/2.028658d3.chunk.js",
+    "static/css/main.9cd1c84d.chunk.css",
+    "static/js/main.0325f199.chunk.js"
+  ]
+}
